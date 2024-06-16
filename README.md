@@ -26,6 +26,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
+![123](https://github.com/Kuasne/Kuasne/assets/159201536/bc52b817-b2c1-4e41-81af-93c7fcc6c4bc)
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 
 <!---
 Kuasne/Kuasne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
