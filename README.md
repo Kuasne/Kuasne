@@ -29,6 +29,11 @@
 ![123](https://github.com/Kuasne/Kuasne/assets/159201536/bc52b817-b2c1-4e41-81af-93c7fcc6c4bc)
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=20&color=F71616&width=500&lines=Follow+me" alt="Typing SVG" /></a>
+
 <!---
 Kuasne/Kuasne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
