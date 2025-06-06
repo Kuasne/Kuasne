@@ -4,7 +4,7 @@
 💞️ Estou buscando colaborar em projetos relacionados ao desenvolvimento web front-end e etc.<br>
 📫 Você pode entrar em contato comigo via mensagem direta no Instagram @Painbrtt.<br>
 😄 Pronomes: ele/dele.<br>
-⚡ Curiosidade: Kuasne está cursando Engenharia de Software numa cidade do interiror do Rio de Janeiro.<br>
+⚡ Curiosidade: Lorenzo está cursando Engenharia de Software numa cidade do interiror do Rio de Janeiro.<br>
 
 ## Minhas Skills
 
