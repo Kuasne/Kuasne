@@ -1,4 +1,4 @@
-👋 Olá, sou o Kuasne!<br>
+👋 Olá, sou o Lorenzo!<br>
 👀 Estou interessado em desenvolvimento web front-end, jogos de computador e sair com amigos no tempo livre.<br>
 🌱 Atualmente, estou aprendendo novas técnicas e tendências em desenvolvimento web front-end, e diversas tecnologias.<br>
 💞️ Estou buscando colaborar em projetos relacionados ao desenvolvimento web front-end e etc.<br>
